@@ -8,14 +8,10 @@ body {
   font-size: 28px;
 }
 
-#coba .header{
-  margin: -7px;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding-top: -20px;
   overflow: hidden;
   background-color: #333;
   position: -webkit-sticky; /* Safari */
