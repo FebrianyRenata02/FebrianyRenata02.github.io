@@ -27,6 +27,7 @@ nav ul {
 
 nav ul a {
   color: #fff;
+  list-style: none;
   display: inline-block;
   font-size: 13px;
   margin: 0 1rem;
