@@ -155,8 +155,9 @@ footer ul {
   row-gap: 15px;
 }
 
-nav ul a {
+footer ul a {
   color: #fff;
+  list-style: none;
   font-size: 15px;
   text-decoration: none;
 }
