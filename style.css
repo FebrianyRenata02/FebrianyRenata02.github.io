@@ -20,9 +20,12 @@ nav ul {
   align-items: center;
 }
 
-li {
-  list-style: none;
+nav ul a {
+  color: #fff;
+  display: inline-block;
   font-size: 13px;
+  margin: 0 1rem;
+  text-decoration: none;
 }
 
 .jumbotron {
