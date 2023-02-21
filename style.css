@@ -142,8 +142,10 @@ footer {
   min-height: 120px;
 }
 
-footer h5 {
+footer h5 a {
   font-size: 30px;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 footer ul {
