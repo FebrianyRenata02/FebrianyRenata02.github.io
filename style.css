@@ -14,6 +14,11 @@ nav {
   display: flex;
 }
 
+h1 {
+  color: #fff;
+  text-decoration: none;
+}
+
 nav ul {
   display: flex;
   column-gap: 40px;
@@ -148,6 +153,8 @@ footer ul {
   row-gap: 15px;
 }
 
-footer ul li {
+nav ul a {
+  color: #fff;
   font-size: 15px;
+  text-decoration: none;
 }
